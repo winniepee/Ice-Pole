@@ -1,0 +1,162 @@
+mgv6_np_trees = {
+	lacunarity = 2
+	persistence = 0.66
+	scale = 1
+	offset = 0
+	flags = defaults
+	spread = (125,125,125)
+	seed = 2
+	octaves = 4
+}
+mgv6_np_humidity = {
+	lacunarity = 2
+	persistence = 0.5
+	scale = 0.5
+	offset = 0.5
+	flags = defaults
+	spread = (500,500,500)
+	seed = 72384
+	octaves = 3
+}
+mgv6_spflags = jungles, biomeblend, mudflow, snowbiomes, noflat, trees
+mg_flags = caves, dungeons, light, decorations, biomes
+mgv6_np_terrain_base = {
+	lacunarity = 2
+	persistence = 0.6
+	scale = 20
+	offset = -4
+	flags = defaults
+	spread = (250,250,250)
+	seed = 82341
+	octaves = 5
+}
+mgv6_np_apple_trees = {
+	lacunarity = 2
+	persistence = 0.45
+	scale = 1
+	offset = 0
+	flags = defaults
+	spread = (100,100,100)
+	seed = 342902
+	octaves = 3
+}
+mgv6_np_height_select = {
+	lacunarity = 2
+	persistence = 0.69
+	scale = 1
+	offset = 0
+	flags = defaults
+	spread = (250,250,250)
+	seed = 4213
+	octaves = 5
+}
+mg_biome_np_heat = {
+	lacunarity = 2
+	persistence = 0.5
+	scale = 50
+	offset = 50
+	flags = defaults
+	spread = (1000,1000,1000)
+	seed = 5349
+	octaves = 3
+}
+mgv6_dungeon_ymax = 31000
+mgv6_freq_beach = 0.15
+mg_biome_np_humidity = {
+	lacunarity = 2
+	persistence = 0.5
+	scale = 50
+	offset = 50
+	flags = defaults
+	spread = (1000,1000,1000)
+	seed = 842
+	octaves = 3
+}
+mg_biome_np_humidity_blend = {
+	lacunarity = 2
+	persistence = 1
+	scale = 1.5
+	offset = 0
+	flags = defaults
+	spread = (8,8,8)
+	seed = 90003
+	octaves = 2
+}
+mg_name = v6
+seed = 572413911500617734
+mgv6_freq_desert = 0.45
+mgv6_np_cave = {
+	lacunarity = 2
+	persistence = 0.5
+	scale = 6
+	offset = 6
+	flags = defaults
+	spread = (250,250,250)
+	seed = 34329
+	octaves = 3
+}
+water_level = 1
+mgv6_dungeon_ymin = -31000
+mgv6_np_terrain_higher = {
+	lacunarity = 2
+	persistence = 0.6
+	scale = 16
+	offset = 20
+	flags = defaults
+	spread = (500,500,500)
+	seed = 85039
+	octaves = 5
+}
+mg_biome_np_heat_blend = {
+	lacunarity = 2
+	persistence = 1
+	scale = 1.5
+	offset = 0
+	flags = defaults
+	spread = (8,8,8)
+	seed = 13
+	octaves = 2
+}
+mgv6_np_steepness = {
+	lacunarity = 2
+	persistence = 0.7
+	scale = 0.5
+	offset = 0.85
+	flags = defaults
+	spread = (125,125,125)
+	seed = -932
+	octaves = 5
+}
+mapgen_limit = 31000
+chunksize = 5
+mgv6_np_mud = {
+	lacunarity = 2
+	persistence = 0.55
+	scale = 2
+	offset = 4
+	flags = defaults
+	spread = (200,200,200)
+	seed = 91013
+	octaves = 3
+}
+mgv6_np_beach = {
+	lacunarity = 2
+	persistence = 0.5
+	scale = 1
+	offset = 0
+	flags = defaults
+	spread = (250,250,250)
+	seed = 59420
+	octaves = 3
+}
+mgv6_np_biome = {
+	lacunarity = 2
+	persistence = 0.5
+	scale = 1
+	offset = 0
+	flags = defaults
+	spread = (500,500,500)
+	seed = 9130
+	octaves = 3
+}
+[end_of_params]
